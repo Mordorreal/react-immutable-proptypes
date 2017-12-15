@@ -2,7 +2,7 @@
   "name": "react-immutable-proptypes",
   "version": "2.1.0",
   "description": "PropType validators that work with Immutable.js.",
-  "main": "dist/ImmutablePropTypes.js",
+  "main": "src/ImmutablePropTypes.js",
   "scripts": {
     "build": "./scripts/build",
     "test": "./scripts/test",
